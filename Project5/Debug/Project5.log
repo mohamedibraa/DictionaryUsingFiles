@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> D:\mohamed\Ibraa\1 cs\summer\Dictionary\Project5\Debug\Project5.exe
